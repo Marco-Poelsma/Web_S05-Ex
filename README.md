@@ -2,17 +2,18 @@
 
 Para ver los apuntes, haz clic [aquí](https://github.com/Marco-Poelsma/Web-S05).
 
+---
 
-# 📝 Enunciado
+## 📝 Enunciado
 
-## 🎯 Objetivo
+### 🎯 Objetivo
 
 Crea una **página web** que se parezca **lo máximo posible** a la [**imagen de referencia**](./starter/img/Captura.PNG), partiendo del [**código base proporcionado**](./starter/).  
 👉 Puedes **añadir clases e IDs** cuando lo necesites.
 
 ---
 
-## 📦 Materiales
+### 📦 Materiales
 
 - Archivos base en `./starter/`
 - Hoja de estilos en `./starter/css/`
@@ -20,7 +21,7 @@ Crea una **página web** que se parezca **lo máximo posible** a la [**imagen de
 
 ---
 
-## 📋 Requisitos
+### 📋 Requisitos
 
 1. **Solo** implementa la **navegación horizontal** (`nav`) mostrada en la imagen.
 2. Utiliza **Flexbox** para **posicionar y alinear** los elementos siempre que sea posible  
@@ -33,7 +34,7 @@ Crea una **página web** que se parezca **lo máximo posible** a la [**imagen de
 
 ---
 
-## 🎛️ Pistas técnicas (opcionales)
+### 🎛️ Pistas técnicas (opcionales)
 
 ```css
 /* Contenedor del menú */
@@ -60,7 +61,7 @@ nav a span {
 }
 ```
 
-## 🏆 ADVANCED LEVEL
+### 🏆 ADVANCED LEVEL
 
 Añade el **código necesario** para que el **nav vertical** también se vea **igual que en la imagen de referencia**.  
 Deberás ajustar su estructura y disposición usando **Flexbox**.
